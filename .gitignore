@@ -1,0 +1,10 @@
+# Ignore all .exe files
+*.exe
+
+# Ignore build/temp files
+*.o
+*.out
+*.obj
+
+# Ignore backup files
+*~
