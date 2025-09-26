@@ -1,5 +1,6 @@
 # Ignore all .exe files
 *.exe
+*.class
 
 # Ignore build/temp files
 *.o
